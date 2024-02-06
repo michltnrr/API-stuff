@@ -1,2 +1,7 @@
 # API-stuff
-new_api.py is a small program that uses the stackoverflow api to find unanswered question on the stackoverflow website
+- Castle
+-   Castle uses the chess.com read-only api to get basic data about a user
+
+
+- Robonotes
+-   Robonotes uses the openai api to summarize the videos i have to watch for math, but it can be used for any youtube video, just enter the video link, and change the prompt accordingly, and Vwallah 
