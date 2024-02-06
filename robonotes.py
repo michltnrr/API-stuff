@@ -12,7 +12,7 @@ for i in range(len(transcript)):
     video_text += ' '
 
 # access chatgpt 
-key = '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'
+key = 'YOURAPIKEY'
 client = OpenAI(api_key=key)
 
 prompt = "Given the transcript of this math video, summarize the main ideas in 2-3 pargraphs, and walkthrough some example problems \
